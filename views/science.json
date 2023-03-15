@@ -1,0 +1,127 @@
+{
+	"1.1 Easy": {
+		"summary": "Easy - Types of forces",
+		"text": [{
+				"subtopic": "Forces",
+				"target": "#Forces",
+				"define": "What causes a change in motion? The application of a force. Any time an object changes motion, a force has been applied. In what ways can this happen? Force is defined as a push or a pull. Another example of force is an applied force. It occurs when a person or thing applies force to an object. Force can cause an object at rest to start moving. Forces can cause objects to speed up or slow down. Forces can cause a moving object to stop. Forces can also cause a change in direction. In short, forces cause changes in motion. The moving object may change its speed, its direction, or both. "
+			},
+			{
+				"subtopic": "Friction",
+				"target": "#Friction",
+				"define": "Friction is a force that works against motion. It occurs between two surfaces that are touching. Friction can be good and bad. How can this be? Think about some common things we do. For example, we put rubber tires on our cars. The tires cause friction against the road. Without rubber tires, the car would slide around. Think about the bottom of your bathtub. Do you have tape that has a sandy texture? Maybe you use a rubber mat. Both materials prevent you from slipping. If you live in a really cold place, you have probably seen icy sidewalks. Perhaps you have put sand on the frozen surface. The sand increases friction. It helps to keep you from slipping and falling. Is friction always a good thing? "
+			},
+			{
+				"subtopic": "Gravity",
+				"target": "#Gravity",
+				"define": "Gravity is a force, but not like other forces you may know. Gravity is a bit special. You know that a force is a push or pull. If you push a ball, it starts to roll. If you lift a book, it moves upward. Now, imagine you drop a ball. It falls to the ground. Can you see the force pulling it down? That is what makes gravity really cool. It is invisible. Invisible means you cannot see it. But wait, it has even more surprises."
+			}
+		],
+		"video": "https://www.youtube.com/embed/uoKo3DbfYZk"
+	},
+	"1.2 Easy" : {
+		"summary": "Easy - Life Cycles",
+		"text": [{
+				"subtopic": "Plants",
+				"target": "#Plants",
+				"define": "New plants come from seeds and spores. These seeds are carried by wind, water, or even animals! The seed germinates, or sprouts, and begins to grow into a new plant. It uses minerals from the soil, sunlight, and water to make its own food. As the plant grows, it begins to look like a small copy of the adult plant. Over time, it gets larger. It eventually becomes an adult plant. It will produce seeds or spores, which will someday be the start of a new plant. "
+			},
+			{
+				"subtopic": "Insect",
+
+				"target": "#Insect",
+				"define": "An insect’s life cycle is not like yours. When they are young they look a certain way. During their lives, some insects go through a change. For most insects, they go through four stages. The first stage is the egg stage. In the second stage, they hatch as insect larva. The larva then matures. Next is the pupa chrysalis stage. After this final stage, the insect will look like its parents. This change is called a complete metamorphosis."
+			},
+			{
+				"subtopic": "Animal",
+				"target": "#Animal",
+				"define": "Some animals do not have live births. Instead, they lay eggs. The eggs contain the embryo. The embryo matures in the egg. With time, it will hatch. Some animals hatch and do not need care from their parents. They are ready to live on their own. Other animals will still need the care of their parents. Sea turtles break out of their shells. They immediately walk to the ocean. They do this with no help from an adult. Birds stay in the nest for many weeks. They are cared for by their parents. They leave the nest when they are strong enough to fly. Some animals give birth to live offspring. Animals like horses, cows, and whales give live birth. Their offspring are born looking like mini adults."
+			}
+		],
+		"video": "https://www.youtube.com/embed/-pHav-3QZkI"
+	},
+
+	"2.1 Medium": {
+		"summary": "Medium - Energy",
+		"text": [{
+				"subtopic": "Introduction",
+				"target": "#Introduction",
+				"define": "Energy is the ability to do work. Another way to say this is, the ability to cause change. Work is done when a force is used to move something. When work is done, energy is transferred. This transfer occurs between one object and another. For example, a batter swings a bat and transfers energy. She transfers her energy to the bat. The moving bat, in turn, transfers energy to the ball. Energy is measured in the joule (J)."
+			},
+			{
+				"subtopic": "Electricity",
+				"target": "#Electricity",
+				"define": "Electric current is actually the flow of electrons. You may recall, an electron is the outer-most particle in an atom. They have a negative charge. Electricity is the continuous flow of these particles. Electrons are able to move through wires. Their speed can even be measured. The SI unit for electric current (or speed) is the ampere (A). Ampere is often shortened to amp. Electric current may flow in just one direction, or it may keep reversing direction."
+			},
+			{
+				"subtopic": "Speed",
+				"target": "#Speed",
+				"define": "Speed is an important aspect of motion. It is a measure of how fast or slow something moves. To determine speed you must know two things. First, you must know how far something travels. Second, you need to know how long it takes to travel that far. Speed can be calculated using this formula: speed = distance / time"
+			}
+		],
+		"video": "https://www.youtube.com/embed/Q0LBegPWzrg"
+	},
+
+	"2.2 Medium": {
+		"summary": "Medium - Human Systems",
+		"text": [{
+				"subtopic": "Respiratory",
+				"target": "#Respiratory",
+				"define": "The respiratory system is the body system that exchanges gases with the outside air. It brings air containing oxygen into the body for the cells. It also releases carbon dioxide from the cells into the air. This exchange of gases is called respiration. The lungs are the main organs of the respiratory system. This is where gases are exchanged between the air and the blood. Gases are also carried by the blood throughout your body. The blood carries back the waste gases from your cells so they can be exhaled through your lungs."
+			},
+			{
+				"subtopic": "Cardiovascular",
+				"target": "#Cardiovascular",
+				"define": "The cardiovascular system consists of the heart, a network of blood vessels, and blood. Blood is a liquid tissue. The heart is a pump that keeps blood flowing through the vessels of the system. The main function of the cardiovascular system is transport. It carries special chemicals, oxygen, nutrients, and cellular wastes around the body. The cardiovascular system also helps regulate body temperature by controlling blood flow."
+			},
+			{
+				"subtopic": "Digestive",
+				"target": "#Digestive",
+				"define": "The digestive system is the body system that digests food. It digest food in two ways, mechanically and chemically. Both help in the process of turning food into nutrients. The digestive system also eliminates solid food waste. The major organs of the digestive system include the mouth, esophagus, stomach, and small and large intestines. These organs all work together to help you gain energy from the food you eat."
+			}
+		],
+		"video": "https://www.youtube.com/embed/AHQGNb0zBgg"
+	},
+
+	"3.1 Hard": {
+		"summary": "Hard - 3 States of Matter",
+		"text": [{
+				"subtopic": "Solid",
+				"target": "#Solid",
+				"define": "A solid occurs when matter has a fixed volume and a fixed shape. The particles of solids are arranged in a regular repeating pattern. The structure of a solid is rigid. This simply means it does not change shape. Think of an ice cube. Its shape will not change unless it is melted."
+			},
+			{
+				"subtopic": "Liquid",
+				"target": "#Liquid",
+				"define": "A liquid is matter that has a fixed volume but not a fixed shape. No matter what the shape of the container, the amount of water will stay the same. Liquids take the shape of the container they are in. We must assume the volume of a liquid is less than the volume of its container. Otherwise, it would overflow. "
+			},
+			{
+				"subtopic": "Gas",
+				"target": "#Gas",
+				"define": "A gas is matter that does not have a fixed volume or a fixed shape. Instead, a gas takes both the volume and the shape of its container. It spreads out to take up all available space."
+			}
+		],
+		"video": "https://www.youtube.com/embed/wclY8F-UoTE"
+	},
+	"3.2 Hard": {
+		"summary": "Hard - Physical and Chemical Changes in Matter",
+		"text": [{
+				"subtopic": "Chemical",
+				"target": "#Chemical",
+				"define": "A chemical change occurs when matter changes into an entirely different substance. The new substance has different properties. When vinegar and baking soda combine, they form carbon dioxide. Carbon dioxide is a gas. It is this gas that causes the bubbles. It is the same gas that gives soft drinks their fizz."
+			},
+			{
+				"subtopic": "Physical",
+				"target": "#Physical",
+				"define": "A physical change in matter is a change in one or more of matter's physical properties. Glass breaking is just one example of a physical change. In each example, matter may look different after the change occurs, but it's still the same. It is still the same substance with the same chemical properties. For example, smaller pieces of wood have the ability to burn just as larger logs do."
+			},
+			{
+				"subtopic": "Conservation",
+				"target": "#Conservation",
+				"define": "The Law of Conservation of Mass states that matter cannot be created or destroyed. Even when matter goes through physical or chemical changes, the total mass of matter always remains the same. Assume you had measured the mass of the wood before you burned it. Assume you had also trapped the gases released by the burning wood and measured their mass and the mass of the ashes. What would you find? The ashes and gases combined have the same mass as the wood you started with."
+			}
+		],
+		"video": "https://www.youtube.com/embed/BgM3e8YZxuc"
+	}
+
+}

@@ -1,0 +1,62 @@
+{
+	"1.1 Easy": {
+		"summary": "Easy - Whole numbers & Integers",
+		"text": [{
+				"explanation": "Whole Numbers are simply the numbers 0, 1, 2, 3, 4, 5, ... (and so on)",
+				"example": "0, 7, 212 and 1023 are all whole numbers (But numbers like ½, 1.1 and 3.5 are not whole numbers.)"
+			},
+			{
+				"explanation": "Integers are like whole numbers, but they also include negative numbers ... but still no fractions allowed!",
+				"example": "−16, −3, 0, 1 and 198 are all integers."
+			}
+		],
+		"video": "https://www.youtube.com/embed/-L94qb6RXwc"
+	},
+	"1.2 Easy": {
+		"summary": "Easy - Addition & Subtraction",
+		"text": [{
+				"explanation": "Addition is bringing two or more numbers (or things) together to make a new total.",
+				"example": "When we add 2 and 3 we get 5. We can write it like this: 2 + 3 = 5"
+			},
+			{
+				"explanation": "Subtraction is taking one number away from another.",
+				"example": "Start with 5 apples, then subtract 2, we are left with 3 apple. This can be written: 5 − 2 = 3"
+			}
+		],
+		"video": "https://www.youtube.com/embed/aK3FKEZJKec"
+	},
+
+	"2.1 Medium": {
+		"summary": "Medium - Multiplication",
+		"text": [{
+			"explanation": "Multiplication, one of the four basic operations of arithmetic, gives the result of combining groups of equal sizes.",
+			"example": "3 × 5 = 15, 2 × 9 = 18"
+		}],
+		"video": "https://www.youtube.com/embed/eW2dRLyoyds"
+	},
+	"2.2 Medium": {
+		"summary": "Medium - Division",
+		"text": [{
+			"explanation": "Division is splitting into equal parts or groups. It is the result of 'fair sharing'.",
+			"example": "We use the ÷ symbol, or sometimes the / symbol to mean divide. 12 ÷ 3 = 4 and 12 / 3 = 4"
+		}],
+		"video": "https://www.youtube.com/embed/rGMecZ_aERo"
+	},
+	"3.1 Hard": {
+		"summary": "Hard - Fractions",
+		"text": [{
+			"explanation": "Fractions are the number of equal parts of a whole. We call the top number the Numerator, it is the number of parts we have. We call the bottom number the Denominator, it is the number of parts the whole is divided into. Numerator / Denominator",
+			"example": "3/8 + 2/8 = 5/8, 5/8 + 1/8 = 6/8 = 3/4"
+		}],
+		"video": "https://www.youtube.com/embed/p33BYf1NDAE"
+	},
+
+	"3.2 Hard": {
+		"summary": "Hard - Decimals",
+		"text": [{
+			"explanation": "A Decimal Number is a number that contains a Decimal Point. The decimal point goes between Ones and Tenths.",
+			"example": "45 has 4 Tens and 5 Ones. But what if we continue past Ones? What is 10 times smaller than Ones? That is 1/10 tenths. But we must first put a decimal point,  so we know exactly where the Ones position is: 45.6. We can continue with smaller and smaller values, from tenths, to hundredths, and so on, like in this example: 45.678."
+		}],
+		"video": "https://www.youtube.com/embed/9frz4ODJUc0"
+	}
+}

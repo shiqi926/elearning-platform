@@ -1,0 +1,282 @@
+/* MAIN */
+
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* NAVBAR */
+@media screen and (max-width: 480px) {
+    .navbar a {
+        font-size:100%;
+    }
+    h2 {
+        font-size: 100%;
+    }
+    p {
+        font-size: 80%;
+    }
+}
+
+/* GAME STYLES */
+.game{
+    height: 100vh;
+    padding-top: 56px;
+
+    /* background-color: lightgreen; */
+    background-image: url(./resources/img/game_bg.png);
+    background-size: auto 100%;
+}
+
+.game #topBox {
+    height: 35vh;
+
+    /* background-color: lightcyan; */
+}
+
+#leftBox, #rightBox {
+    height: 50vh;
+
+    /* background-color: lightcyan; */
+}
+
+@media screen and (max-width: 767px) {
+    .game #midBox {
+        margin-top: 15vh;
+    }
+}
+@media screen and (min-width: 768px) {
+    .game #midBox {
+        margin-top: 25vh;
+    }
+}
+
+
+.game img {
+    /* height: auto;
+    width: 100%; */
+    height: 100%;
+    width: 100%;
+}
+
+/* GAME ANIMATE */
+.wiggle {
+    animation: wiggle 5s infinite;
+    animation-duration: 2s;
+}
+
+@keyframes wiggle {
+    0%      { transform: scale(1.0); }
+    50%     { transform: scale(1.025); }
+    100%    { transform: scale(1.0); }
+}
+
+.blink {
+    animation : blink 1.2s infinite;
+}
+
+@keyframes blink {
+    0%      {   color: #000; }
+    49%     {   color: #000; }
+    60%     {   color: transparent; }
+    99%     {   color: transparent; }
+    100%    {   color: #000; }
+}
+
+/* ABOUT US */
+
+.about {
+    height: auto;
+    padding-top: 56px;
+    padding-bottom: 112px;
+
+    /* background-color: lightsteelblue; */
+
+    background-image: url(./resources/img/about_bg.png);
+    /* background-repeat: no-repeat; */
+    background-size: auto 100%;
+}
+
+/* MOVER */
+
+.mover {
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+    padding: 0;
+    /* background-color: lightgreen; */
+
+    background-image: url(./resources/img/road.png);
+    background-size: auto 100%;
+}
+
+#moverBG {
+    height: 100vh;
+    position: absolute;
+    padding-top: 56px;
+    top: 0;
+    left: 0;
+}
+
+.pane {
+    height: 100vh;
+}
+
+@media screen and (max-width: 767px) {
+    #pane1 {
+        background-size: 80vh auto;
+    }
+}
+@media screen and (min-width: 768px) {
+    #pane1 {
+        background-size: auto auto;
+    }
+}
+
+#pane1 {
+    width: 200vw;
+    /* background-color: lightsalmon; */
+
+    background-image: url(./resources/img/bus.png);
+    background-repeat: no-repeat;
+    /* background-size: auto auto; */
+    background-position: left center;
+}
+
+#pane2 {
+    position: relative;
+    left: 100vw;
+
+    /* background-color: lightcoral; */
+}
+
+#pane3 {
+    position: relative;
+    left: 100vw;
+    height: 100%;
+    width: 100vw;
+    padding-top: 56px;
+    text-align: center;
+
+    /* background-color: greenyellow; */
+}
+
+/* HOW */
+
+.how {
+    position: relative;
+    overflow: hidden;
+    height: auto;
+    padding-top: 56px;
+    /* background-color: lightsteelblue;*/
+
+    background-image: url(./resources/img/underground.png);
+    background-size: auto 100%;
+
+    z-index: -10;
+}
+
+.howDetails{
+    background-color: lightyellow;
+    padding: 1.5rem;
+}
+
+#howTop {
+    height: auto;
+    width: 100%;
+
+    margin: 0;
+    padding-top: 56px;
+
+    top: 0;
+    left: 0;
+
+    z-index: 5;
+
+    position: absolute;
+    /* background-color: lightpink; */
+
+    background-image: url(./resources/img/underground.png);
+    background-repeat: no-repeat;
+}
+@media screen and (max-width: 767px) {
+    #howBox {
+        background-size: 0%;
+    }
+}
+@media screen and (min-width: 768px) {
+    #howBox {
+        background-size: 100% auto;
+    }
+}
+@media screen and (min-width: 992px) {
+    #howBox {
+        background-size: auto 100%;
+    }
+}
+
+#howBox {
+    height: 100%;
+    width: 20vw;
+
+    top: -35%;
+    left: 40vw;
+
+    z-index: -5;
+
+    position: fixed;
+    /* background-color: mediumaquamarine;*/
+
+    background-image: url(./resources/img/elevator.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* TRAIN */
+
+#trainBG {
+    height: 20vh;
+    width: 100%;
+    overflow-x: hidden;
+
+    background-color: #152238;
+}
+
+#train {
+    height: 100%;
+    width: 100%;
+
+    left: 50;
+
+    /* background-color: lightsalmon; */
+
+    background-image: url(./resources/img/train_lights.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+
+/* FEATURES */
+
+.features {
+    height: auto;
+    padding-top: 56px;
+
+    /* background-color: darkgray; */
+
+    background-image: url(./resources/img/stars_half_cloud.png);
+
+}
+
+/* CONTACT */
+
+.contact {
+    padding-top: 56px;
+    overflow: hidden;
+
+    background-color: lightgray;
+}
